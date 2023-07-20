@@ -1,0 +1,3 @@
+## I'm learning Panda statements!
+
+My sleeping pattern has miraculously returned to what can be reasonably considered to be human life-sustaining, and I am happily seated at my well equipped computer desk, learning to craft Python statements. Jose Portilla is my guide in this course _The Complete Python Bootcamp From Zero to Hero in Python_. Boot camp is two words. But I'll let Jose slide on that. He is graciously teaching the world Python. I have his Machine Learning course slated for my next endeavor. However, I am only 25% completed with introductory Python, so I better get crackin'. Thanks for reading this note you wrote to yourself for posterity.
